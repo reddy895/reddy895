@@ -134,3 +134,232 @@ Real-time UAV detection and monitoring using PyTorch and OpenCV.
 AI-powered crop disease detection platform with multilingual farmer assistance.
 
 ---
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reddy895&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reddy895&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=reddy895&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🧠 AI Engineering Dashboard
+
+<table>
+
+<tr>
+
+<td>
+
+💻 AI Engineering
+
+███████████████░░
+
+90%
+
+</td>
+
+<td>
+
+🧠 Machine Learning
+
+█████████████░░░░
+
+85%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+👁️ Computer Vision
+
+██████████████░░░
+
+88%
+
+</td>
+
+<td>
+
+⚡ Full Stack AI
+
+████████████░░░░░
+
+80%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+📚 LLM Development
+
+████████████░░░░░
+
+82%
+
+</td>
+
+<td>
+
+🚀 RAG Systems
+
+███████████░░░░░░
+
+78%
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚙️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,mongodb,git,github,figma,vscode"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch"/>
+
+<img src="https://img.shields.io/badge/RAG-AI%20Systems-0096FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-00D9FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🟢 Building AI Products
+
+🟢 Learning Agentic AI
+
+🟢 Building RAG Applications
+
+🟢 Computer Vision
+
+🟢 Open Source Contributions
+
+🟢 System Design
+```
+
+---
+
+# 📚 Currently Learning
+
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Generative AI
+- PyTorch
+- AI System Design
+- Prompt Engineering
+- Multi-Agent Systems
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rexie.codes@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/praveen-reddy-21b101241/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/reddy895">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=reddy895&style=for-the-badge&color=00D9FF"/>
+
+</p>
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+> "Build solutions that matter, then let the code speak."
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ⭐
+
+If you like my work, consider following my journey!
+
+</div>

@@ -73,25 +73,15 @@ I'm an AI/ML Engineer passionate about building intelligent systems using **Comp
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=reddy895&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=reddy895&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=reddy895&theme=tokyonight&no-frame=true&column=4"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 

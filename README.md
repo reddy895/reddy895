@@ -70,23 +70,41 @@ I'm an AI/ML Engineer passionate about building intelligent systems using **Comp
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=reddy895&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=reddy895&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</p>
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=reddy895&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reddy895&theme=github-compact&hide_border=true"/>
+
+</div>
 
 ## 🚀 Featured Projects
 

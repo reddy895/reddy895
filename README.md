@@ -87,13 +87,6 @@ I'm an AI/ML Engineer passionate about building intelligent systems using **Comp
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reddy895&theme=tokyo-night&hide_border=true"/>
-
-</div>
 ## 🚀 Featured Projects
 
 | Project | Description |

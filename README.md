@@ -91,10 +91,11 @@ I'm an AI/ML Engineer passionate about building intelligent systems using **Comp
 
 | Project | Description |
 |---------|-------------|
-| 🌾 FarmBid | AI-powered agriculture marketplace connecting farmers and buyers. |
-| 🤖 AI Assistant | Intelligent assistant using LLMs and Retrieval-Augmented Generation. |
-| 🚁 UAV Drone Detection | Real-time drone detection using Computer Vision and PyTorch. |
-| 🌱 KrishiMithra | AI-powered agriculture platform for disease detection and farmer assistance. |
+|  FarmBid | AI-powered agriculture marketplace connecting farmers and buyers |
+|  AI Assistant | Intelligent assistant using LLMs and Retrieval-Augmented Generation. |
+|  UAV Drone Detection | Real-time drone detection using Computer Vision and PyTorch. |
+|  KrishiMithra | AI-powered agriculture platform for disease detection and farmer assistance. |
+|  Loop | AI-powered customer feedback analytics platform. |
 
 ---
 

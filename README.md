@@ -98,22 +98,6 @@ I'm an AI/ML Engineer passionate about building intelligent systems using **Comp
 
 ---
 
-<div align="center">
-
-<h3><code>reddy895@github ~ $ ./contributions.sh</code></h3>
-
-<picture>
-
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=reddy895&theme=github-dark&style=terminal&mode=light"/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=reddy895&theme=github-dark&style=terminal&mode=dark" width="100%"/>
-
-</picture>
-
-</div>
-
----
-
 ## 📫 Connect
 
 <p align="center">

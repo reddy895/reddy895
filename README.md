@@ -402,24 +402,29 @@ AI-powered concept designed to assist users with memory-oriented interactions th
 
 <td width="50%" valign="top">
 
-### 🌿 Plant Disease Detection — *Vision AI*
+<!-- RepoPilot -->
+<td width="50%" valign="top">
 
-**Deep Learning • Computer Vision**
+<h3>🤖 RepoPilot</h3>
 
-Image-based plant disease detection system designed to identify disease patterns from crop images using deep learning.
+<p>
+AI-powered GitHub repository assistant designed to understand,
+analyze, and interact with software repositories using intelligent
+automation and developer-focused workflows.
+</p>
 
-<br>
+<p>
+<img src="https://img.shields.io/badge/Tech-Python-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tech-AI%2FLLM-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tech-RAG-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tech-GitHub-black?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/Tech-Python-15803d?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep-Learning-15803d?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-15803d?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyTorch-Model-15803d?style=flat-square"/>
-<img src="https://img.shields.io/badge/Image-Classification-15803d?style=flat-square"/>
+<p>
+<a href="https://github.com/reddy895/RepoPilot">View Project →</a>
+</p>
 
 </td>
-
-</tr>
-</table>
 
 ---
 

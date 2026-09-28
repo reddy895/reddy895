@@ -62,13 +62,15 @@ I'm an AI/ML Engineer passionate about building intelligent systems using **Comp
 **Junior Software Engineer**  
 📍 Bengaluru, India · 🟢 Current
 
-Building and contributing to software and AI-driven applications, working across **Python, AI/ML, backend systems, APIs and modern web technologies**.
-
-**Focus:** AI/ML · Software Engineering · Backend Development · APIs
+Building and contributing to software and AI-driven applications, working across AI/ML, backend systems, APIs and modern software technologies.
 
 <br>
 
-**Skills:** Python · AI/ML · JavaScript · APIs · Git · Software Development
+<img src="https://img.shields.io/badge/Skills-Python-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%2FML-Engineering-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-Development-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/APIs-Development-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-blue?style=flat-square"/>
 
 </td>
 
@@ -77,15 +79,17 @@ Building and contributing to software and AI-driven applications, working across
 ### 🤖 SSN Infotech — *AI/ML Developer*
 
 **AI/ML Developer**  
-📍 Bengaluru, India · 🟢 Experience
+📍 Bengaluru, India · 💼 Experience
 
 Worked on practical AI/ML development involving model integration, data processing, experimentation and intelligent application workflows.
 
-**Focus:** Machine Learning · AI · Python · Computer Vision
-
 <br>
 
-**Skills:** Python · Machine Learning · OpenCV · AI · Data Processing
+<img src="https://img.shields.io/badge/Skills-Python-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine-Learning-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer-Vision-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data-Processing-orange?style=flat-square"/>
 
 </td>
 
@@ -100,30 +104,33 @@ Worked on practical AI/ML development involving model integration, data processi
 **Developer Intern**  
 📍 India · 💼 Internship
 
-Worked on software development tasks and practical application development while gaining experience with modern development workflows, Git and collaborative engineering.
-
-**Focus:** Software Development · Web Development · Git
+Worked on software development tasks and practical application development while gaining experience with modern development workflows and collaborative engineering.
 
 <br>
 
-**Skills:** JavaScript · React · Git · Web Development
+<img src="https://img.shields.io/badge/Skills-JavaScript-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-Web%20Development-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software-Development-7c3aed?style=flat-square"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 CodeAlpha — *AI Intern*
+### 🎨 Graphic Design — *Freelance / Creative Work*
 
-**AI Developer Intern**  
-📍 India · 💼 Internship
+**Graphic Designer**  
+📍 Remote
 
-Worked on artificial intelligence and machine learning concepts through practical development, experimentation and implementation of AI-based solutions.
-
-**Focus:** Artificial Intelligence · Machine Learning · Python
+Worked on visual identities, digital designs, UI concepts and creative assets for different projects and applications.
 
 <br>
 
-**Skills:** Python · AI · ML · Data Processing
+<img src="https://img.shields.io/badge/Skills-Figma-e11d48?style=flat-square"/>
+<img src="https://img.shields.io/badge/Photoshop-Design-e11d48?style=flat-square"/>
+<img src="https://img.shields.io/badge/Adobe-XD-e11d48?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI-Design-e11d48?style=flat-square"/>
+<img src="https://img.shields.io/badge/Brand-Identity-e11d48?style=flat-square"/>
 
 </td>
 
@@ -145,12 +152,13 @@ Worked on artificial intelligence and machine learning concepts through practica
 
 Real-time CCTV surveillance system designed to detect road incidents using YOLO-based computer vision directly on local hardware.
 
-**Pipeline:**  
-Detect → Verify → Assess → Locate → Respond
+<br>
 
-**Planned:** Intelligent severity analysis, location-based response routing and automated emergency notifications.
-
-**Tech:** Python · YOLO · OpenCV · PyTorch · Edge AI
+<img src="https://img.shields.io/badge/Tech-Python-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-Detection-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Edge-AI-yellow?style=flat-square"/>
 
 </td>
 
@@ -162,9 +170,13 @@ Detect → Verify → Assess → Locate → Respond
 
 Multilingual citizen infrastructure platform connecting citizen reports with AI analysis, GIS intelligence and government workflows.
 
-Citizens can submit infrastructure complaints with evidence while authorities can review incidents, analyze hotspots and track resolution.
+<br>
 
-**Tech:** Python · FastAPI · React · NLP · GIS · AI
+<img src="https://img.shields.io/badge/Tech-Python-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-AI-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/GIS-Mapping-blue?style=flat-square"/>
 
 </td>
 
@@ -178,11 +190,16 @@ Citizens can submit infrastructure complaints with evidence while authorities ca
 
 **LLM • RAG • NLP • Generative AI**
 
-AI-powered customer feedback intelligence platform that transforms unstructured customer feedback into actionable insights using Retrieval-Augmented Generation.
+AI-powered customer feedback intelligence platform that transforms unstructured feedback into actionable insights using Retrieval-Augmented Generation.
 
-Combines document retrieval, semantic understanding and AI-powered analysis.
+<br>
 
-**Tech:** Next.js · Python · Gemini/Ollama · RAG · Prisma · PostgreSQL · Tailwind
+<img src="https://img.shields.io/badge/Tech-Next.js-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-Backend-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-LLM-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-Local%20AI-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-Architecture-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-black?style=flat-square"/>
 
 </td>
 
@@ -192,11 +209,15 @@ Combines document retrieval, semantic understanding and AI-powered analysis.
 
 **AI • ML • AgriTech • Traceability**
 
-Digital platform designed to connect agriscience companies with verified farmers for managed agricultural field trials, seed-lot traceability, field monitoring and reporting.
+Digital agricultural platform connecting agriscience companies with verified farmers for managed field trials, seed-lot traceability, field monitoring and reporting.
 
-Built around structured agricultural data and human-assisted workflows.
+<br>
 
-**Tech:** AI · ML · React · Node.js · MongoDB · Data Analytics
+<img src="https://img.shields.io/badge/Tech-React-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Agriculture-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-Analytics-8b5cf6?style=flat-square"/>
 
 </td>
 
@@ -210,11 +231,15 @@ Built around structured agricultural data and human-assisted workflows.
 
 **LLM • RAG • NLP • Agriculture**
 
-AI-powered agricultural assistant designed to help farmers access crop-related information, disease guidance and agricultural support through conversational interfaces.
+AI-powered agricultural assistant designed to help farmers access crop information, disease guidance and agricultural support through conversational interfaces.
 
-Focused on making agricultural knowledge easier to access.
+<br>
 
-**Tech:** Python · LLMs · RAG · NLP · AI · APIs
+<img src="https://img.shields.io/badge/Tech-Python-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-AI-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-Knowledge%20Retrieval-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-Language%20AI-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/APIs-Integration-green?style=flat-square"/>
 
 </td>
 
@@ -224,11 +249,15 @@ Focused on making agricultural knowledge easier to access.
 
 **YOLO • Computer Vision • Deep Learning**
 
-Computer vision system designed to identify potholes and road surface issues from images and video.
+Computer vision system designed to identify potholes and road surface issues from images and video using real-time object detection.
 
-Built as a practical road-infrastructure monitoring solution using real-time object detection.
+<br>
 
-**Tech:** Python · YOLO · OpenCV · PyTorch · Computer Vision
+<img src="https://img.shields.io/badge/Tech-Python-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLO-Detection-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-Vision-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer-Vision-orange?style=flat-square"/>
 
 </td>
 
@@ -244,9 +273,12 @@ Built as a practical road-infrastructure monitoring solution using real-time obj
 
 Real-time drone detection system using computer vision and deep learning to identify UAVs from visual input.
 
-Designed for real-time inference and surveillance-oriented applications.
+<br>
 
-**Tech:** Python · PyTorch · YOLO · OpenCV · Deep Learning
+<img src="https://img.shields.io/badge/Tech-Python-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=flat-square"/>
 
 </td>
 
@@ -256,11 +288,14 @@ Designed for real-time inference and surveillance-oriented applications.
 
 **YOLO • Computer Vision • Deep Learning**
 
-AI-powered CCTV surveillance concept focused on identifying potentially dangerous situations and improving response through automated visual monitoring.
+AI-powered CCTV surveillance concept focused on identifying potentially dangerous situations through real-time visual monitoring.
 
-Designed around real-time detection and surveillance intelligence.
+<br>
 
-**Tech:** Python · YOLO · OpenCV · PyTorch · Computer Vision
+<img src="https://img.shields.io/badge/Tech-Python-c026d3?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLO-Surveillance-c026d3?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-c026d3?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-c026d3?style=flat-square"/>
 
 </td>
 
@@ -274,11 +309,15 @@ Designed around real-time detection and surveillance intelligence.
 
 **Machine Learning • Cybersecurity**
 
-Machine learning-based malware detection system designed to analyze data/features and identify potentially malicious patterns.
+Machine learning-based malware detection system designed to analyze data features and identify potentially malicious patterns.
 
-Focused on applying ML techniques to cybersecurity threat detection.
+<br>
 
-**Tech:** Python · Machine Learning · Data Analysis · Cybersecurity
+<img src="https://img.shields.io/badge/Tech-Python-0891b2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine-Learning-0891b2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-0891b2?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-Data%20Processing-0891b2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Detection-0891b2?style=flat-square"/>
 
 </td>
 
@@ -290,9 +329,13 @@ Focused on applying ML techniques to cybersecurity threat detection.
 
 Machine learning system designed to estimate railway arrival times using historical and operational data.
 
-Focused on predictive analysis and dynamic ETA forecasting.
+<br>
 
-**Tech:** Python · Machine Learning · Data Analysis · Time-Series
+<img src="https://img.shields.io/badge/Tech-Python-2563eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine-Learning-2563eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-Analytics-2563eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-Processing-2563eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Time-Series-Forecasting-2563eb?style=flat-square"/>
 
 </td>
 
@@ -308,9 +351,13 @@ Focused on predictive analysis and dynamic ETA forecasting.
 
 Machine learning project focused on identifying different market regimes from historical financial data and market behaviour.
 
-Designed for exploratory financial intelligence and predictive analytics.
+<br>
 
-**Tech:** Python · Machine Learning · Pandas · Time-Series Analysis
+<img src="https://img.shields.io/badge/Tech-Python-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine-Learning-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-Analytics-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-Processing-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Time-Series-Analysis-16a34a?style=flat-square"/>
 
 </td>
 
@@ -322,9 +369,13 @@ Designed for exploratory financial intelligence and predictive analytics.
 
 Agricultural marketplace concept enabling farmers to list crops and buyers to participate in digital bidding.
 
-Designed during a hackathon with additional communication and transaction concepts for farmer accessibility.
+<br>
 
-**Tech:** React · Node.js · MongoDB · AI · APIs
+<img src="https://img.shields.io/badge/Tech-React-65a30d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-65a30d?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-65a30d?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-Frontend-65a30d?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Agriculture-65a30d?style=flat-square"/>
 
 </td>
 
@@ -340,7 +391,12 @@ Designed during a hackathon with additional communication and transaction concep
 
 AI-powered concept designed to assist users with memory-oriented interactions through conversational intelligence and contextual information.
 
-**Tech:** Python · AI · NLP · APIs
+<br>
+
+<img src="https://img.shields.io/badge/Tech-Python-9333ea?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Intelligence-9333ea?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-Language%20Processing-9333ea?style=flat-square"/>
+<img src="https://img.shields.io/badge/APIs-Integration-9333ea?style=flat-square"/>
 
 </td>
 
@@ -352,9 +408,13 @@ AI-powered concept designed to assist users with memory-oriented interactions th
 
 Image-based plant disease detection system designed to identify disease patterns from crop images using deep learning.
 
-Focused on practical agricultural computer vision.
+<br>
 
-**Tech:** Python · Deep Learning · OpenCV · PyTorch · Computer Vision
+<img src="https://img.shields.io/badge/Tech-Python-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep-Learning-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-Model-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Image-Classification-15803d?style=flat-square"/>
 
 </td>
 
@@ -450,25 +510,7 @@ Focused on practical agricultural computer vision.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=reddy895&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 What I Build
+## 🔥 Current Focus
 
 <table>
 <tr>
@@ -517,15 +559,44 @@ Intelligent Applications
 
 ---
 
-## 🔥 Current Focus
+## 📊 GitHub Statistics
 
-```text
-Building practical AI systems
-        ↓
-Computer Vision + Edge AI
-        ↓
-LLMs + RAG
-        ↓
-Intelligent Automation
-        ↓
-Production-ready Applications
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=reddy895&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+
+<a href="mailto:rexie.codes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/praveen-reddy-21b101241/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/reddy895">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:0055FF"/>
+
+</div>

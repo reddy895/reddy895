@@ -33,7 +33,9 @@
 <a href="https://www.linkedin.com/in/praveen-reddy-21b101241/">
 LinkedIn
 </a>
+
 •
+
 <a href="mailto:rexie.codes@gmail.com">
 Email
 </a>
@@ -69,6 +71,7 @@ I'm an AI/ML Engineer passionate about building intelligent systems using **Comp
 </p>
 
 ---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -89,13 +92,40 @@ I'm an AI/ML Engineer passionate about building intelligent systems using **Comp
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-|  FarmBid | AI-powered agriculture marketplace connecting farmers and buyers |
-|  AI Assistant | Intelligent assistant using LLMs and Retrieval-Augmented Generation. |
-|  UAV Drone Detection | Real-time drone detection using Computer Vision and PyTorch. |
-|  KrishiMithra | AI-powered agriculture platform for disease detection and farmer assistance. |
-|  Loop | AI-powered customer feedback analytics platform. |
+### 🤖 Artificial Intelligence
+
+- **CivicPulse** — AI + NLP + GIS
+- **LOOP** — LLM + RAG + NLP
+- **Krishi Mithra** — LLM + NLP + RAG
+- **AgroTraceX** — AI + Agricultural Intelligence
+- **MemoryMate** — AI + NLP
+- **FarmBid** — AI-assisted Agricultural Platform
+
+### 🧠 Machine Learning
+
+- **Malware Detection** — ML + Cybersecurity
+- **Railway ETA Forecasting** — ML + Time-Series Forecasting
+- **Stock Regime Detection** — ML + Time-Series Analysis
+- **CivicPulse** — ML + NLP
+- **AgroTraceX** — ML + Data Analytics
+
+### 🧬 Deep Learning
+
+- **NexGuard** — YOLO + Computer Vision + Edge AI
+- **Women Safety** — YOLO + CCTV + Computer Vision
+- **Pothole Detector** — YOLO + Computer Vision
+- **UAV Drone Detection** — YOLO + Computer Vision
+- **Plant Disease Detection** — Deep Learning + Computer Vision
+- **LOOP** — LLM + Deep Learning
+- **Krishi Mithra** — LLM + Deep Learning
+
+### 👁️ YOLO / Computer Vision
+
+- **NexGuard**
+- **Women Safety**
+- **Pothole Detector**
+- **UAV Drone Detection**
+- **Plant Disease Detection**
 
 ---
 

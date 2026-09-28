@@ -4,6 +4,7 @@
 
 <table>
 <tr>
+
 <td width="42%" valign="top">
 
 <picture>
@@ -25,6 +26,7 @@
 </picture>
 
 </td>
+
 </tr>
 </table>
 
@@ -44,9 +46,11 @@ Email
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm an AI/ML Engineer passionate about building intelligent systems using **Computer Vision**, **Large Language Models**, and **Retrieval-Augmented Generation (RAG)**. I enjoy transforming ideas into practical AI applications with modern technologies and clean user experiences.
+I'm an AI/ML Engineer passionate about building intelligent systems using **Computer Vision**, **Large Language Models**, and **Retrieval-Augmented Generation (RAG)**.
+
+I enjoy transforming ideas into practical AI applications with modern technologies and clean user experiences.
 
 ---
 
@@ -66,6 +70,8 @@ Building and contributing to software and AI-driven applications, working across
 
 <br>
 
+**Skills**
+
 <img src="https://img.shields.io/badge/Skills-Python-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI%2FML-Engineering-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/Backend-Development-blue?style=flat-square"/>
@@ -84,6 +90,8 @@ Building and contributing to software and AI-driven applications, working across
 Worked on practical AI/ML development involving model integration, data processing, experimentation and intelligent application workflows.
 
 <br>
+
+**Skills**
 
 <img src="https://img.shields.io/badge/Skills-Python-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/Machine-Learning-orange?style=flat-square"/>
@@ -108,6 +116,8 @@ Worked on software development tasks and practical application development while
 
 <br>
 
+**Skills**
+
 <img src="https://img.shields.io/badge/Skills-JavaScript-7c3aed?style=flat-square"/>
 <img src="https://img.shields.io/badge/React-Web%20Development-7c3aed?style=flat-square"/>
 <img src="https://img.shields.io/badge/Git-Version%20Control-7c3aed?style=flat-square"/>
@@ -125,6 +135,8 @@ Worked on software development tasks and practical application development while
 Worked on visual identities, digital designs, UI concepts and creative assets for different projects and applications.
 
 <br>
+
+**Skills**
 
 <img src="https://img.shields.io/badge/Skills-Figma-e11d48?style=flat-square"/>
 <img src="https://img.shields.io/badge/Photoshop-Design-e11d48?style=flat-square"/>
@@ -154,11 +166,19 @@ Real-time CCTV surveillance system designed to detect road incidents using YOLO-
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-yellow?style=flat-square"/>
 <img src="https://img.shields.io/badge/YOLO-Computer%20Vision-yellow?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-Detection-yellow?style=flat-square"/>
 <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-yellow?style=flat-square"/>
 <img src="https://img.shields.io/badge/Edge-AI-yellow?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/reddy895/NexGuard">
+View Project →
+</a>
 
 </td>
 
@@ -172,11 +192,19 @@ Multilingual citizen infrastructure platform connecting citizen reports with AI 
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/FastAPI-Backend-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/React-Frontend-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-AI-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/GIS-Mapping-blue?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/reddy895/CivicPulse">
+View Project →
+</a>
 
 </td>
 
@@ -194,12 +222,20 @@ AI-powered customer feedback intelligence platform that transforms unstructured 
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Next.js-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/Python-Backend-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/Gemini-LLM-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/Ollama-Local%20AI-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-Architecture-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/PostgreSQL-Database-black?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/reddy895/LOOP">
+View Project →
+</a>
 
 </td>
 
@@ -213,17 +249,51 @@ Digital agricultural platform connecting agriscience companies with verified far
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-React-8b5cf6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Node.js-Backend-8b5cf6?style=flat-square"/>
 <img src="https://img.shields.io/badge/MongoDB-Database-8b5cf6?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-Agriculture-8b5cf6?style=flat-square"/>
 <img src="https://img.shields.io/badge/ML-Analytics-8b5cf6?style=flat-square"/>
 
+<br><br>
+
+<a href="https://github.com/reddy895/AgroTraceX">
+View Project →
+</a>
+
 </td>
 
 </tr>
 
 <tr>
+
+<td width="50%" valign="top">
+
+### 🤖 RepoPilot — *AI Repository Assistant*
+
+**AI • LLM • RAG • Developer Automation**
+
+AI-powered GitHub repository assistant designed to understand, analyze and interact with software repositories through intelligent automation and developer-focused workflows.
+
+<br>
+
+**Tech**
+
+<img src="https://img.shields.io/badge/Tech-Python-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%2FLLM-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-orange?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/reddy895/RepoPilot">
+View Project →
+</a>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -235,13 +305,25 @@ AI-powered agricultural assistant designed to help farmers access crop informati
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-green?style=flat-square"/>
 <img src="https://img.shields.io/badge/LLM-AI-green?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-Knowledge%20Retrieval-green?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-Language%20AI-green?style=flat-square"/>
 <img src="https://img.shields.io/badge/APIs-Integration-green?style=flat-square"/>
 
+<br><br>
+
+<a href="https://github.com/reddy895/Krishi-Mithra">
+View Project →
+</a>
+
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -253,17 +335,21 @@ Computer vision system designed to identify potholes and road surface issues fro
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/YOLO-Detection-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-Vision-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/Computer-Vision-orange?style=flat-square"/>
 
+<br><br>
+
+<a href="https://github.com/reddy895/PotHole-Detector">
+View Project →
+</a>
+
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -275,12 +361,24 @@ Real-time drone detection system using computer vision and deep learning to iden
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-red?style=flat-square"/>
 <img src="https://img.shields.io/badge/YOLO-Object%20Detection-red?style=flat-square"/>
 <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=flat-square"/>
 
+<br><br>
+
+<a href="https://github.com/reddy895">
+View Project →
+</a>
+
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -292,16 +390,20 @@ AI-powered CCTV surveillance concept focused on identifying potentially dangerou
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-c026d3?style=flat-square"/>
 <img src="https://img.shields.io/badge/YOLO-Surveillance-c026d3?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-c026d3?style=flat-square"/>
 <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-c026d3?style=flat-square"/>
 
+<br><br>
+
+<a href="https://github.com/reddy895">
+View Project →
+</a>
+
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -313,13 +415,25 @@ Machine learning-based malware detection system designed to analyze data feature
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-0891b2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Machine-Learning-0891b2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-0891b2?style=flat-square"/>
 <img src="https://img.shields.io/badge/NumPy-Data%20Processing-0891b2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cybersecurity-Detection-0891b2?style=flat-square"/>
 
+<br><br>
+
+<a href="https://github.com/reddy895">
+View Project →
+</a>
+
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -331,17 +445,21 @@ Machine learning system designed to estimate railway arrival times using histori
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-2563eb?style=flat-square"/>
 <img src="https://img.shields.io/badge/Machine-Learning-2563eb?style=flat-square"/>
 <img src="https://img.shields.io/badge/Pandas-Analytics-2563eb?style=flat-square"/>
 <img src="https://img.shields.io/badge/NumPy-Processing-2563eb?style=flat-square"/>
 <img src="https://img.shields.io/badge/Time-Series-Forecasting-2563eb?style=flat-square"/>
 
+<br><br>
+
+<a href="https://github.com/reddy895">
+View Project →
+</a>
+
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -353,13 +471,25 @@ Machine learning project focused on identifying different market regimes from hi
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-16a34a?style=flat-square"/>
 <img src="https://img.shields.io/badge/Machine-Learning-16a34a?style=flat-square"/>
 <img src="https://img.shields.io/badge/Pandas-Analytics-16a34a?style=flat-square"/>
 <img src="https://img.shields.io/badge/NumPy-Processing-16a34a?style=flat-square"/>
 <img src="https://img.shields.io/badge/Time-Series-Analysis-16a34a?style=flat-square"/>
 
+<br><br>
+
+<a href="https://github.com/reddy895">
+View Project →
+</a>
+
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -371,17 +501,21 @@ Agricultural marketplace concept enabling farmers to list crops and buyers to pa
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-React-65a30d?style=flat-square"/>
 <img src="https://img.shields.io/badge/Node.js-Backend-65a30d?style=flat-square"/>
 <img src="https://img.shields.io/badge/MongoDB-Database-65a30d?style=flat-square"/>
 <img src="https://img.shields.io/badge/JavaScript-Frontend-65a30d?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-Agriculture-65a30d?style=flat-square"/>
 
+<br><br>
+
+<a href="https://github.com/reddy895">
+View Project →
+</a>
+
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -393,38 +527,23 @@ AI-powered concept designed to assist users with memory-oriented interactions th
 
 <br>
 
+**Tech**
+
 <img src="https://img.shields.io/badge/Tech-Python-9333ea?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-Intelligence-9333ea?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-Language%20Processing-9333ea?style=flat-square"/>
 <img src="https://img.shields.io/badge/APIs-Integration-9333ea?style=flat-square"/>
 
-</td>
+<br><br>
 
-<td width="50%" valign="top">
-
-<!-- RepoPilot -->
-<td width="50%" valign="top">
-
-<h3>🤖 RepoPilot</h3>
-
-<p>
-AI-powered GitHub repository assistant designed to understand,
-analyze, and interact with software repositories using intelligent
-automation and developer-focused workflows.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Tech-Python-yellow?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tech-AI%2FLLM-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tech-RAG-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tech-GitHub-black?style=flat-square"/>
-</p>
-
-<p>
-<a href="https://github.com/reddy895/RepoPilot">View Project →</a>
-</p>
+<a href="https://github.com/reddy895">
+View Project →
+</a>
 
 </td>
+
+</tr>
+</table>
 
 ---
 
@@ -441,6 +560,7 @@ automation and developer-focused workflows.
 - 🧠 LOOP
 - 🌾 Krishi Mithra
 - 🌱 AgroTraceX
+- 🤖 RepoPilot
 - 🧠 MemoryMate
 - 🚜 FarmBid
 
@@ -470,7 +590,6 @@ automation and developer-focused workflows.
 - 🛡️ Women Safety
 - 🕳️ Pothole Detector
 - 🚁 UAV Drone Detection
-- 🌿 Plant Disease Detection
 - 🧠 LOOP
 - 🌾 Krishi Mithra
 
@@ -484,7 +603,34 @@ automation and developer-focused workflows.
 - 🛡️ Women Safety
 - 🕳️ Pothole Detector
 - 🚁 UAV Drone Detection
-- 🌿 Plant Disease Detection
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 LLM / RAG / NLP
+
+- 🤖 RepoPilot
+- 🧠 LOOP
+- 🌾 Krishi Mithra
+- 🏛️ CivicPulse
+- 🧠 MemoryMate
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ AI Engineering
+
+- 🤖 RepoPilot
+- 🏛️ CivicPulse
+- 🧠 LOOP
+- 🌱 AgroTraceX
+- 🚨 NexGuard
 
 </td>
 
@@ -493,7 +639,7 @@ automation and developer-focused workflows.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
@@ -511,11 +657,15 @@ automation and developer-focused workflows.
 
 <img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-Developer%20Automation-111827?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🔥 Current Focus
+# 🔥 Current Focus
 
 <table>
 <tr>
@@ -564,43 +714,109 @@ Intelligent Applications
 
 ---
 
-## 📊 GitHub Statistics
+# 🧪 Currently Building
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚨 NexGuard
+
+**Edge AI Surveillance & Intelligent Incident Response**
+
+Real-time computer vision system for road incident detection with future intelligent emergency-response workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 RepoPilot
+
+**AI Repository Intelligence**
+
+AI-powered developer assistant focused on repository understanding, analysis and intelligent software-development workflows.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏛️ CivicPulse
+
+**Citizen Infrastructure Intelligence**
+
+Multilingual AI platform connecting citizen reports, infrastructure intelligence and government workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 AgroTraceX
+
+**Agricultural Field Intelligence**
+
+AI-driven agricultural platform for field trials, farmer coordination, seed-lot traceability and reporting.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=reddy895&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=reddy895&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
 <p align="center">
 
 <a href="mailto:rexie.codes@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/praveen-reddy-21b101241/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/reddy895">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
 
+---
+
 <div align="center">
+
+### `BUILD • BREAK • LEARN • REPEAT`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:0055FF"/>
 

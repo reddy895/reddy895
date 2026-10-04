@@ -192,8 +192,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=reddy895&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
@@ -212,15 +210,7 @@
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=reddy895&style=flat-square&color=000000&label=PROFILE+VIEWS" />
-
-<br><br>
-
 ```bash
 > echo "Thanks for visiting."
 > exit
 ```
-
-</div>

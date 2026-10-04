@@ -31,38 +31,101 @@
 </table>
 
 **AI/ML Engineer • Computer Vision • LLMs • RAG • Generative AI**
+<!-- ========================= ABOUT ========================= -->
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an AI/ML Engineer passionate about building intelligent systems using **Computer Vision**, **Large Language Models**, and **Retrieval-Augmented Generation (RAG)**.
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I enjoy transforming ideas into practical AI applications with modern technologies and clean user experiences.
+I'm an **AI/ML Engineer** focused on building practical intelligent systems across **Computer Vision, LLMs, RAG, and Generative AI**.
+
+I enjoy taking ideas from concept → architecture → implementation and turning them into usable products with clean interfaces and reliable engineering.
+
+<br>
+
+**Currently focused on**
+
+`AI/ML` · `Computer Vision` · `LLMs` · `RAG` · `Full Stack` · `Open Source`
+
+</td>
+
+<td width="35%" valign="top">
+
+### ⚡ Quick Snapshot
+
+**AI / ML**  
+Computer Vision · YOLO · PyTorch · RAG
+
+**Development**  
+Python · TypeScript · React · Node.js
+
+**Data**  
+MongoDB · PostgreSQL · MySQL
+
+**Workflow**  
+Git · GitHub · Figma · Linux
+
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- ========================= OPEN SOURCE ========================= -->
 
 # 🌍 Open Source
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Issues%20Addressed-4-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/PR%20Merged-1-2ea44f?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-0366d6?style=for-the-badge&logo=github"/>
-
+  <img src="https://img.shields.io/badge/4-Issues%20Addressed-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/1-PR%20Merged-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0969da?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<table>
+<tr>
+<td width="70%" valign="top">
 
 ### `Univers42/commit-history-visualizer`
 
-Actively contributing to a real-world open-source project through issue investigation, debugging, implementation, testing and Pull Requests.
+**Open-source contributor**
+
+Actively contributing to a real-world open-source project through:
+
+- 🐛 Issue investigation & debugging
+- 🔧 Implementation & fixes
+- 🧪 Testing and validation
+- 🔀 Pull Requests
+- 🛠️ Developer tooling & workflow improvements
 
 **4 issues addressed · 1 PR merged**
 
-**Contribution areas**
+</td>
 
-`Python` · `Makefile` · `Git` · `Debugging` · `Testing` · `Open Source`
+<td width="30%" valign="middle" align="center">
+
+### 📊 Contribution
+
+**4**  
+Issues Addressed
+
+**1**  
+PR Merged
+
+<br>
 
 <a href="https://github.com/Univers42/commit-history-visualizer">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>Building in public • Learning through real-world collaboration • Contributing to open source</sub>
+</p>
 
 ---
 

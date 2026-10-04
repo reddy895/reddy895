@@ -11,7 +11,6 @@
 > username: reddy895
 > Interested in Artificial Intelligence, Machine Learning, RAG, LLMs, Computer Vision and scalable software.
 > B.E. Artificial Intelligence and Machine Learning @ VTU
-> Open to open-source collaboration, Solved 4 open source issues, 1 Issue merged.
 > role: AI Engineer / Graphic Designer / Full-Stack Developer
 > location: Bengaluru, India
 > mindset: Build. Break. Learn. Rebuild.
@@ -30,11 +29,20 @@
 ```bash
 > help --experience
 
->SSN Infotech sol pvt ltd as Junior software engineer.
->SSN Infotech sol pvt ltd as AI developer.
->Zidio developement as Full stack developer.
->Freelance as graphic designer.
+> SSN Infotech sol pvt ltd as Junior software engineer.
+> SSN Infotech sol pvt ltd as AI developer.
+> Zidio developement as Full stack developer.
+> Freelance as graphic designer.
 ```
+
+```bash
+> help --opensource contri
+> Solved 4 issues from opensource.
+> 2 issues merged and closed.
+> Repo: mehmoodulhaq570/LightLine #60 PR: fix(terminal): clear scrollback and rename sessions
+> Repo: Univers42/commit-history-visualizer #3 PR: fix: isolate Makefile Python commands in virtual environments
+```
+
 
 ---
 

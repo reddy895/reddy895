@@ -224,38 +224,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=reddy895&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reddy895&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/reddy895/reddy895/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 📫 Contact
-
 ```bash
 > help --contact
 > github: https://github.com/reddy895

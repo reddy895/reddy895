@@ -9,11 +9,8 @@
 > Praveen Reddy — AI Engineer, Graphic Designer and Full-Stack Developer.
 > I mainly build with Python, JavaScript, TypeScript and modern AI/ML technologies.
 > Interested in Artificial Intelligence, Machine Learning, RAG, LLMs, Computer Vision and scalable software.
-> I also design interfaces, brand identities and digital experiences with a strong focus on visual quality.
-> B.E. Artificial Intelligence and Machine Learning @ VTU.
-> I build practical products instead of just demos — from AI surveillance systems to developer tools.
-> Currently exploring LLM applications, RAG systems, computer vision, AI agents and full-stack architecture.
-> Open to open-source collaboration, interesting products, freelance work and ambitious engineering projects.
+> B.E. Artificial Intelligence and Machine Learning @ VTU
+> Open to open-source collaboration, Solved 4 open source issues, 1 Issue merged.
 > See more at https://github.com/reddy895
 ```
 
@@ -33,55 +30,19 @@
 > help --skills
 
 > artificial-intelligence:
-> Python
-> Machine Learning
-> Deep Learning
-> RAG
-> LLMs
-> Computer Vision
-> Generative AI
-> AI Agents
-> PyTorch
-> OpenCV
+> Python, ML, DL, RAG, LLMs, CV, Gen AI, AI Agents, Pytorch, Opencv, Yolo v8
 
 > development:
-> JavaScript
-> TypeScript
-> React
-> Next.js
-> Node.js
-> Express
-> Flask
-> REST APIs
-> HTML
-> CSS
-> Tailwind CSS
+> JavaScript, Typescript, MERN Stack, HTML, CSS, Rest APIs, Flask.
 
 > databases:
-> MongoDB
-> PostgreSQL
-> MySQL
-> SQL
-> Prisma
+> MongoDB, PostgreSQL, MySQL, SQL, Prisma.
 
 > tools:
-> Git
-> GitHub
-> Docker
-> Vite
-> Figma
-> Adobe Photoshop
-> Adobe XD
-> VS Code
-> Antigravity
+> Git, Github, Docker, Vite, Figma, Adobe XD, Antigravity, Hugging Face.
 
 > design:
-> Graphic Design
-> UI/UX
-> Brand Identity
-> Visual Design
-> Web Design
-> Creative Direction
+> Graphic Design, UI UX
 ```
 
 ```bash
@@ -155,23 +116,23 @@
 ```bash
 > help --experience
 
-> AI / ML
-> • Computer Vision
+> SSN Infotech solutions pvt ltd.
+> • Junior software engineer
 > • YOLO-based detection systems
 > • RAG applications
 > • LLM integrations
 > • Machine Learning pipelines
 > • AI-powered automation
 
-> Software Engineering
-> • Full-stack web applications
+> Zidio Developement
+> • Full-stack developer
 > • REST APIs
 > • Backend architecture
 > • Database integration
 > • Git/GitHub workflows
 > • Deployment and CI/CD
 
-> Design
+> Freelancing
 > • Brand identity
 > • UI/UX
 > • Graphic design

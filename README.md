@@ -192,28 +192,6 @@
 
 ---
 
-## 🧠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,nodejs,express,html,css,tailwind,flask,mongodb,postgres,mysql,git,github,docker,figma,photoshop,pytorch,opencv" />
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">

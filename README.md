@@ -166,7 +166,7 @@
 > github: https://github.com/reddy895
 > linkedin: https://www.linkedin.com/
 > portfolio: coming soon
-> email: praveenreddy_[at]_outlook.com
+> email: praveenlk41@gmail.com
 ```
 
 ---

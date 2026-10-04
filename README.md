@@ -40,6 +40,32 @@ I enjoy transforming ideas into practical AI applications with modern technologi
 
 ---
 
+# 🌍 Open Source
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Issues%20Addressed-4-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/PR%20Merged-1-2ea44f?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-0366d6?style=for-the-badge&logo=github"/>
+
+</p>
+
+### `Univers42/commit-history-visualizer`
+
+Actively contributing to a real-world open-source project through issue investigation, debugging, implementation, testing and Pull Requests.
+
+**4 issues addressed · 1 PR merged**
+
+**Contribution areas**
+
+`Python` · `Makefile` · `Git` · `Debugging` · `Testing` · `Open Source`
+
+<a href="https://github.com/Univers42/commit-history-visualizer">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
 # 💼 Experience
 
 <table>

@@ -1,32 +1,280 @@
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=PRAVEEN+REDDY;AI+ENGINEER;GRAPHIC+DESIGNER;OPEN+SOURCE+BUILDER;VIBE+CODER)](https://git.io/typing-svg)
+
+</div>
 
 ```bash
 > help --info
-> A Graphic Designer and AI Engineer who mainly programs in Python, JavaScript and TypeScript.
-> Likes building AI systems, full-stack applications, developer tools and creative digital experiences.
-> B.E. Artificial Intelligence and Machine Learning student @ VTU.
-> Works with AI/ML, RAG, LLMs, Computer Vision, Web Development and modern AI tools.
-> Experienced with Python, Java, JavaScript, TypeScript, React, Node.js, MongoDB, SQL, PyTorch and OpenCV.
-> Currently building AgroTraceX, NexGuard, RepoPilot, LOOP, Pothole Detector and other AI-powered projects.
+> Praveen Reddy — AI Engineer, Graphic Designer and Full-Stack Developer.
+> I mainly build with Python, JavaScript, TypeScript and modern AI/ML technologies.
+> Interested in Artificial Intelligence, Machine Learning, RAG, LLMs, Computer Vision and scalable software.
+> I also design interfaces, brand identities and digital experiences with a strong focus on visual quality.
+> B.E. Artificial Intelligence and Machine Learning @ VTU.
+> I build practical products instead of just demos — from AI surveillance systems to developer tools.
+> Currently exploring LLM applications, RAG systems, computer vision, AI agents and full-stack architecture.
+> Open to open-source collaboration, interesting products, freelance work and ambitious engineering projects.
 > See more at https://github.com/reddy895
 ```
 
 ```bash
-> help --contact
-> github: reddy895
-> linkedin: Praveen Reddy
-> website: coming soon
-> instagram: coming soon
-> email: praveenreddy_[at]outlook.com
+> whoami
+> name: Praveen Reddy
+> username: reddy895
+> role: AI Engineer / Graphic Designer / Full-Stack Developer
 > location: Bengaluru, India
-> 
-> projects:
-> AgroTraceX
-> NexGuard
-> RepoPilot
-> LOOP
-> Pothole Detector
-> Women Safety Surveillance
-> Malware Detection
-> FarmBid
+> education: B.E. Artificial Intelligence and Machine Learning
+> university: VTU
+> languages: Python, Java, C, JavaScript, TypeScript, R, SQL
+> mindset: Build. Break. Learn. Rebuild.
 ```
+
+```bash
+> help --skills
+
+> artificial-intelligence:
+> Python
+> Machine Learning
+> Deep Learning
+> RAG
+> LLMs
+> Computer Vision
+> Generative AI
+> AI Agents
+> PyTorch
+> OpenCV
+
+> development:
+> JavaScript
+> TypeScript
+> React
+> Next.js
+> Node.js
+> Express
+> Flask
+> REST APIs
+> HTML
+> CSS
+> Tailwind CSS
+
+> databases:
+> MongoDB
+> PostgreSQL
+> MySQL
+> SQL
+> Prisma
+
+> tools:
+> Git
+> GitHub
+> Docker
+> Vite
+> Figma
+> Adobe Photoshop
+> Adobe XD
+> VS Code
+> Antigravity
+
+> design:
+> Graphic Design
+> UI/UX
+> Brand Identity
+> Visual Design
+> Web Design
+> Creative Direction
+```
+
+```bash
+> help --projects
+
+> [01] AgroTraceX
+> Managed agricultural field-trial and seed-lot traceability platform
+> connecting agri-science companies with verified farmers and field teams.
+
+> [02] NexGuard
+> Edge-AI CCTV surveillance system using YOLO-based computer vision
+> for accident and person detection with automated emergency response.
+
+> [03] RepoPilot
+> AI-powered developer tool designed to understand, analyze and work
+> with software repositories more intelligently.
+
+> [04] LOOP
+> AI Customer Feedback Intelligence Platform using RAG and LLMs
+> to transform unstructured customer feedback into useful insights.
+
+> [05] Pothole Detector
+> Computer vision system designed to detect potholes from road imagery
+> and assist with automated road-condition monitoring.
+
+> [06] Women Safety Surveillance
+> AI-powered CCTV surveillance concept focused on detecting
+> potentially dangerous situations and improving emergency response.
+
+> [07] Malware Detection
+> Machine-learning based system for identifying potentially malicious
+> files and analyzing patterns associated with malware.
+
+> [08] FarmBid
+> Digital crop-bidding platform designed to connect farmers and buyers
+> with transparent bidding, communication and transaction workflows.
+```
+
+```bash
+> help --open-source
+
+> Open source is not just about writing code.
+> It is about building things other people can use, improve and learn from.
+
+> I actively work with GitHub repositories, issues, pull requests,
+> code reviews and collaborative development workflows.
+
+> interested-in:
+> • Developer tools
+> • Artificial Intelligence
+> • Machine Learning
+> • Computer Vision
+> • RAG / LLM applications
+> • Open-source developer infrastructure
+> • Useful tools for real-world problems
+
+> github: https://github.com/reddy895
+```
+
+```bash
+> help --achievements
+
+> • Winner — AI Powered Solution competition
+> • Winner — PromptWars by Google Developers
+> • Team Captain — GeeksforGeeks Hackathon
+> • Hackathon participant across AI, agriculture and civic-tech projects
+> • Built and maintained multiple AI/ML and full-stack projects
+> • Experience across software development, AI engineering and graphic design
+```
+
+```bash
+> help --experience
+
+> AI / ML
+> • Computer Vision
+> • YOLO-based detection systems
+> • RAG applications
+> • LLM integrations
+> • Machine Learning pipelines
+> • AI-powered automation
+
+> Software Engineering
+> • Full-stack web applications
+> • REST APIs
+> • Backend architecture
+> • Database integration
+> • Git/GitHub workflows
+> • Deployment and CI/CD
+
+> Design
+> • Brand identity
+> • UI/UX
+> • Graphic design
+> • Portfolio and product interfaces
+> • Creative digital experiences
+```
+
+```bash
+> help --currently
+
+> building: AI-powered products
+> learning: Advanced LLM systems and AI agents
+> exploring: RAG, Computer Vision and scalable AI architecture
+> improving: System design and production engineering
+> contributing: Open-source projects
+> goal: Build technology that actually solves problems
+```
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,nodejs,express,html,css,tailwind,flask,mongodb,postgres,mysql,git,github,docker,figma,photoshop,pytorch,opencv" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=reddy895&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy895&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=reddy895&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=reddy895&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reddy895&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/reddy895/reddy895/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+```bash
+> help --contact
+> github: https://github.com/reddy895
+> linkedin: https://www.linkedin.com/
+> portfolio: coming soon
+> email: praveenreddy_[at]_outlook.com
+```
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=reddy895&style=flat-square&color=000000&label=PROFILE+VIEWS" />
+
+<br><br>
+
+```bash
+> echo "Thanks for visiting."
+> exit
+```
+
+</div>

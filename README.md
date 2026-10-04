@@ -1,64 +1,103 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PRAVEEN+REDDY;AI%2FML+ENGINEER;SOFTWARE+DEVELOPER;REXIE" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=PRAVEEN+REDDY;REXIE;AI%2FML+ENGINEER;SOFTWARE+DEVELOPER" />
 </p>
 
-```text
+<p align="center">
+  <code>root@reddy895:~$ whoami</code>
+</p>
+
+```bash
 > help --info
 
-Praveen Reddy
-AI/ML Engineer • Software Developer • Computer Vision • LLMs • RAG
+[+] Praveen Reddy
+[+] AI/ML Engineer
+[+] Software Developer
+[+] Computer Vision • LLMs • RAG
+[+] Bengaluru, India
+[+] B.E. Artificial Intelligence & ML @ VTU
+[+] CGPA: 8.85
 
-B.E. Artificial Intelligence & Machine Learning @ VTU
-CGPA: 8.85
-
-I build AI systems, computer vision applications,
-developer tools and full-stack products.
 
 > help --skills
 
-Python • Java • JavaScript • TypeScript • C • SQL
-PyTorch • OpenCV • YOLO • Machine Learning • Deep Learning
-LLMs • RAG • NLP • AI Agents
-React • Next.js • Node.js • Express
-MongoDB • PostgreSQL • MySQL • Prisma
-Git • GitHub • Figma • Photoshop
+[+] Python        [████████████████████]
+[+] AI / ML       [████████████████████]
+[+] Computer Vision
+[+] YOLO / OpenCV / PyTorch
+[+] LLMs / RAG / NLP
+[+] React / Next.js
+[+] Node.js / Express
+[+] MongoDB / PostgreSQL / MySQL
+[+] Git / GitHub
+
 
 > help --projects
 
-NexGuard        → Edge AI surveillance & incident detection
-RepoPilot       → GitHub repository intelligence
-AgroTraceX     → Agricultural field-trial intelligence
-LOOP            → AI customer-feedback intelligence
-Pothole Detector → Road damage detection using YOLO
-LibraryNexus    → Full-stack digital library
-CivicPulse      → Citizen infrastructure intelligence
-FarmBid         → AgriTech crop bidding platform
+[01] NexGuard
+    └─ Edge AI surveillance & incident detection
+
+[02] RepoPilot
+    └─ GitHub repository intelligence
+
+[03] AgroTraceX
+    └─ Agricultural field-trial intelligence
+
+[04] LOOP
+    └─ AI customer-feedback intelligence
+
+[05] Pothole Detector
+    └─ YOLO-based road damage detection
+
+[06] LibraryNexus
+    └─ Full-stack digital library
+
 
 > help --experience
 
-SSN Infotech       → Junior Software Engineer / AI-ML Developer
-Zidio Development  → Developer Intern
-Freelance          → Graphic Designer
+[+] SSN Infotech
+    └─ Junior Software Engineer / AI-ML Developer
+
+[+] Zidio Development
+    └─ Developer Intern
+
+[+] Freelance
+    └─ Graphic Designer
+
 
 > help --opensource
 
-Univers42/commit-history-visualizer
-Issues Addressed: 4
-PRs Merged: 1
+[+] Univers42/commit-history-visualizer
+
+    Issues Addressed : 4
+    PRs Merged       : 1
+    Status            : ACTIVE CONTRIBUTOR
+
 
 > help --achievements
 
-🥇 Winner — AI Powered Solution Competition
-🥇 Winner — PromptWars by Google Developers
-👨‍💻 Team Captain — GeeksforGeeks Hackathon
-🌍 Open Source Contributor
+[+] AI Powered Solution Competition
+    └─ WINNER
+
+[+] PromptWars by Google Developers
+    └─ WINNER
+
+[+] GeeksforGeeks Hackathon
+    └─ TEAM CAPTAIN
+
 
 > help --contact
 
-GitHub   → https://github.com/reddy895
-LinkedIn → https://www.linkedin.com/in/praveen-reddy-21b101241/
-Email    → rexie.codes@gmail.com
+[+] GitHub   → github.com/reddy895
+[+] LinkedIn → linkedin.com/in/praveen-reddy-21b101241
+[+] Email    → rexie.codes@gmail.com
 
-> echo $STATUS
 
-BUILD • BREAK • LEARN • REPEAT
+> system --status
+
+[ ONLINE ]
+
+BUILDING AI.
+BREAKING CODE.
+LEARNING EVERYTHING.
+
+root@reddy895:~$ _

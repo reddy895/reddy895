@@ -32,20 +32,6 @@
 
 **AI/ML Engineer • Computer Vision • LLMs • RAG • Generative AI**
 
-<a href="https://www.linkedin.com/in/praveen-reddy-21b101241/">
-LinkedIn
-</a>
-
-•
-
-<a href="mailto:rexie.codes@gmail.com">
-Email
-</a>
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 I'm an AI/ML Engineer passionate about building intelligent systems using **Computer Vision**, **Large Language Models**, and **Retrieval-Augmented Generation (RAG)**.

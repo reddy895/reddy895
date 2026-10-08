@@ -43,6 +43,11 @@
 > Repo: Univers42/commit-history-visualizer #3 PR: fix: isolate Makefile Python commands in virtual environments
 ```
 
+```bash
+> help --hackathons
+> Amazon developer hackathon 2k26 -solo
+> Nebius x Nvidia global ai hackakthon 2k26 -solo
+> 6x college hackathons -team
 
 ---
 

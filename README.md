@@ -48,6 +48,7 @@
 > Amazon developer hackathon 2k26 -solo
 > Nebius x Nvidia global ai hackakthon 2k26 -solo
 > 6x college hackathons -team
+```
 
 ---
 

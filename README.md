@@ -37,10 +37,15 @@
 
 ```bash
 > help --opensource contri
-> Solved 9 open-source issues.
-> 7 PRs merged and closed.
-> Repositories: LightLine #60, commit-history-visualizer #3, Skills_MCP_Server #6,7,8,9,10..
-> Focus: Python, bug fixes, developer tooling, documentation, and workflow profiles.
+> Solved 9 issues from opensource.
+> 7 issues merged and closed.
+> Repo: mehmoodulhaq570/LightLine #60 PR: fix(terminal): clear scrollback and rename sessions
+> Repo: Univers42/commit-history-visualizer #3 PR: fix: isolate Makefile Python commands in virtual environments
+> Repo: rajpreetcodes/Skills_MCP_Server #6 PR: Add Claude Code CLI Setup Guide for STDIO and HTTP Transports
+> Repo: rajpreetcodes/Skills_MCP_Server #7 PR: Docs/windsurf zed setup
+> Repo: rajpreetcodes/Skills_MCP_Server #8 PR: feat: add FastAPI backend workflow profile
+> Repo: rajpreetcodes/Skills_MCP_Server #9 PR: feat: add Rust systems engineering workflow profile
+> Repo: rajpreetcodes/Skills_MCP_Server #10 PR: feat: add DevSecOps audit workflow profile
 ```
 
 ```bash

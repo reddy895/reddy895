@@ -54,7 +54,7 @@ Focus: Python, backend engineering, developer tooling, workflow automation, test
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=reddy895&theme=dark&hide_border=true&background=0D1117&ring=FF924A&fire=FF924A&currStreakLabel=FF924A" />
+<img src="https://streak-stats.demolab.com?user=reddy895&theme=dark&hide_border=true&background=0D1117&ring=A87BF2&fire=A87BF2&currStreakLabel=A87BF2" />
 
 </div>
 

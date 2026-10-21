@@ -29,7 +29,7 @@
 ```bash
 > help --experience
 
-> SSN Infotech sol pvt ltd as Junior software engineer.
+> SSN Infotech sol pvt ltd as Junior AI engineer.
 > SSN Infotech sol pvt ltd as AI developer.
 > Zidio developement as Full stack developer.
 > Freelance as graphic designer.

@@ -37,6 +37,7 @@
 
 ```bash
 > help --opensource contri
+
 > Solved 15 issues.
 > 13 PRs merged and closed.
 > Repositories: LightLine, commit-history-visualizer, Skills_MCP_Server.
@@ -45,6 +46,7 @@
 
 ```bash
 > help --hackathons
+
 > Amazon developer hackathon 2k26 -solo
 > Nebius x Nvidia global ai hackakthon 2k26 -solo
 > 6x college hackathons -team
@@ -62,6 +64,7 @@
 
 ```bash
 > help --contact
+
 > github: https://github.com/reddy895
 > linkedin: https://www.linkedin.com/
 > portfolio: coming soon

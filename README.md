@@ -38,8 +38,8 @@
 ```bash
 > help --opensource contri
 
-> Solved 15 issues.
-> 13 PRs merged and closed.
+> Solved 40+ issues.
+> 20+ PRs merged and closed.
 > Repositories: LightLine, commit-history-visualizer, Skills_MCP_Server.
 > Focus: Python, backend engineering, developer tooling, workflow automation, testing, and security.
 ```

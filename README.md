@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=reddy895&theme=dark&hide_border=true&background=0D1117&ring=A87BF2&fire=A87BF2&currStreakLabel=A87BF2" />
+<img src="https://streak-stats.demolab.com?user=reddy895&theme=dark&hide_border=true&background=0D1117&ring=00A6D6&fire=00A6D6&currStreakLabel=00A6D6" />
 
 </div>
 

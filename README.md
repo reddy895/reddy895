@@ -67,7 +67,7 @@
 
 > github: https://github.com/reddy895
 > linkedin: https://www.linkedin.com/
-> portfolio: coming soon
+> portfolio: https://rexie-two.vercel.app/
 > email: praveenlk41@gmail.com
 ```
 

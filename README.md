@@ -54,12 +54,11 @@
 
 ---
 
+
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=reddy895&theme=dark&hide_border=true&background=0D1117&ring=A87BF2&fire=A87BF2&currStreakLabel=A87BF2"
-    alt="GitHub Streak Stats"
-  />
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </div>
+
 
 ---
 

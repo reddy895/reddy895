@@ -66,7 +66,7 @@
 > help --contact
 
 > github: https://github.com/reddy895
-> linkedin: in/praveen-reddy-21b101241
+> linkedin: https://www.linkedin.com/in/praveen-reddy-21b101241/
 > portfolio: https://rexie-two.vercel.app/
 > email: praveenlk41@gmail.com
 ```
